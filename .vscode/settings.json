@@ -1,0 +1,10 @@
+{
+	"editor.insertSpaces": false,
+	"editor.tabSize": 3,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"editor.renderWhitespace": "all",
+	"editor.lineHeight": 1.2,
+	"editor.fontSize": 15,
+	"editor.stickyScroll.enabled": false,
+}
